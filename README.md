@@ -7,14 +7,12 @@ Welcome to the Online Pharmacy project! This repository houses the codebase for 
 ## Features
 
 - Browse a wide range of medications and health products.
-- Search for specific medications based on name, category, or condition.
-- Add products to the cart and proceed to checkout.
 - User authentication and registration system.
 - User profiles to manage orders, prescriptions, and personal information.
 -  Medical store registration and product selling.
 - User login.
 - Forgot password functionality for users.
-- - Delivery date estimation for orders.
+-  Delivery date estimation for orders.
 - Order Not cancellation After  5 hours of Booking.
   
 
